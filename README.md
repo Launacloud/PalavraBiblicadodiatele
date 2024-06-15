@@ -1,4 +1,4 @@
-# testingtorsstg
+# Palavra Biblica do Dia
 
 Settings > Actions > General > Read and write permissions
 
