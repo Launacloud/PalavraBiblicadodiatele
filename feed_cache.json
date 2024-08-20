@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"567b03ea5b730188d54ccf1c3ccb05eaa560c314a5b6e984637b39df5656af62\"",
+    "etag": "W/\"3da2ecd4d014a938c971d36a093a91472f1bfc7b789be2fafb174ebfeb6cc3c1\"",
     "modified": "",
-    "last_entry_id": "https://www.bibliaon.com/historia_de_davi_na_biblia/",
+    "last_entry_id": "https://www.bibliaon.com/batalha/",
     "https://www.bibliaon.com/versiculos_para_vencer_a_tentacao/": true,
     "https://www.bibliaon.com/versiculos_sobre_ser_humilde/": true,
     "https://www.bibliaon.com/estudo_sobre_oracao/": true,
@@ -61,5 +61,6 @@
     "https://www.bibliaon.com/buscar_a_deus/": true,
     "https://www.bibliaon.com/cuidado_de_deus/": true,
     "https://www.bibliaon.com/os_dez_mandamentos/": true,
-    "https://www.bibliaon.com/historia_de_davi_na_biblia/": true
+    "https://www.bibliaon.com/historia_de_davi_na_biblia/": true,
+    "https://www.bibliaon.com/batalha/": true
 }
