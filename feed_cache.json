@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"b10454b2dca16c0d1dcdfbdc78750f84ae0889ed3c69c40ed20ae477c41a9a89\"",
+    "etag": "W/\"7e9a01b26366cf67613bf96ac5c62fd7308f068c5ec2592db792948a84afe4d7\"",
     "modified": "",
-    "last_entry_id": "https://www.bibliaon.com/buscai_ao_senhor/",
+    "last_entry_id": "https://www.bibliaon.com/estudos_biblicos/",
     "https://www.bibliaon.com/versiculos_para_vencer_a_tentacao/": true,
     "https://www.bibliaon.com/versiculos_sobre_ser_humilde/": true,
     "https://www.bibliaon.com/estudo_sobre_oracao/": true,
@@ -70,5 +70,6 @@
     "https://www.bibliaon.com/abundancia/": true,
     "https://www.bibliaon.com/como_orar_e_falar_com_deus/": true,
     "https://www.bibliaon.com/esforca_te_e_tem_bom_animo/": true,
-    "https://www.bibliaon.com/buscai_ao_senhor/": true
+    "https://www.bibliaon.com/buscai_ao_senhor/": true,
+    "https://www.bibliaon.com/estudos_biblicos/": true
 }
