@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"f3c60b12ae152f5d97dadd6e6f89938d2dce5f0b444cd417b30de971f2796c0b\"",
+    "etag": "W/\"b2d826f95038e1e790a20f8c1dd179fcaf9f20e05b69e7f8e7508fa24fa5a5b5\"",
     "modified": "",
-    "last_entry_id": "https://www.bibliaon.com/perfume/",
+    "last_entry_id": "https://www.bibliaon.com/ajuda_ao_proximo/",
     "https://www.bibliaon.com/versiculos_para_vencer_a_tentacao/": true,
     "https://www.bibliaon.com/versiculos_sobre_ser_humilde/": true,
     "https://www.bibliaon.com/estudo_sobre_oracao/": true,
@@ -94,5 +94,6 @@
     "https://www.bibliaon.com/salmos_139/": true,
     "https://www.bibliaon.com/justica_divina/": true,
     "https://www.bibliaon.com/frutos_espirito_frutos_carne/": true,
-    "https://www.bibliaon.com/perfume/": true
+    "https://www.bibliaon.com/perfume/": true,
+    "https://www.bibliaon.com/ajuda_ao_proximo/": true
 }
